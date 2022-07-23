@@ -1,6 +1,6 @@
 ## Smart Contract Lottery.
 
-The working app can be viewed [1]: https://wispy-snow-6604.on.fleek.co/ "here"
+The working app can be viewed [here](https://wispy-snow-6604.on.fleek.co/) 
 
 First, run the development server:
 
