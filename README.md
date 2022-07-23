@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Smart Contract Lottery.
 
-## Getting Started
+The working app can be viewed [1]: https://wispy-snow-6604.on.fleek.co/ "here"
 
 First, run the development server:
 
