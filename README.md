@@ -12,6 +12,7 @@ After the interval of 30 minutes random player entered into the raffle is going 
 
 https://user-images.githubusercontent.com/79632114/180610589-fdcab4f1-b8ae-42a3-a1bc-a72fda686420.mp4
 
+
 ***
 
 This is a Next.js project bootstrapped with create-next-app. The styling has been done using Tailwind CSS.
