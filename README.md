@@ -1,6 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Smart Contract Lottery.
 
-## Getting Started
+The working site can be viewed [here](https://wispy-snow-6604.on.fleek.co/) 
+
+## How to Run the app.
+
+To enter the Raffle, you need to spend 0.01 Rinkeby testnet ETH. <br />
+After the interval of 30 minutes random player entered into the raffle is going to win the lottery. <br />
+
+## Demo 
+
+
+https://user-images.githubusercontent.com/79632114/180610589-fdcab4f1-b8ae-42a3-a1bc-a72fda686420.mp4
+
+
+***
+
+This is a Next.js project bootstrapped with create-next-app. The styling has been done using Tailwind CSS.
 
 First, run the development server:
 
