@@ -108,7 +108,18 @@ export default function LotteryEntrance() {
                     <div className="text-xl">Recent Winner: {recentWinner}</div>
                 </div>
             ) : (
-                <div className="text-xl">No Raffle Address Detected</div>
+                <div>
+                    <div className="text-xl">No Raffle Address Detected</div>
+                    <div className="text-xl">
+                        View contract on{" "}
+                        <a
+                            href="https://rinkeby.etherscan.io/address/0x6b4b3E61DcDe6e23017de41f7bDb19B233004691"
+                            className="text-blue-600"
+                        >
+                            Rinkeby Etherscan
+                        </a>
+                    </div>
+                </div>
             )}
         </div>
     )
